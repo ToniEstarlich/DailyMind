@@ -1,0 +1,11 @@
+# Node
+frontend/daily-mind-app/node_modules/
+
+# Python
+backend/venv/
+*.pyc
+__pycache__/
+
+# Expo
+.expo/
+.expo-shared/
