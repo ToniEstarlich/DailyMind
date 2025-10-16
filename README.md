@@ -79,7 +79,7 @@ daily-mind/
 ---
 
 ## 📸 Screenshots
-im next time...
+in next time...
 - Home screen showing all entries  
 - Add Entry screen with mood analysis  
 - Mood emoji per entry  
